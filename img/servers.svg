@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="171.70538mm"
+   height="98.548058mm"
+   viewBox="0 0 171.70538 98.548058"
+   version="1.1"
+   id="svg828"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="servers.svg">
+   <style type="text/css">
+            #django-server, #database-server, #nas-server, #digas { display: none; }
+   </style>
+   <script type="text/javascript"><![CDATA[
+      s = 0;
+      servers = ['django-server', 'database-server', 'nas-server', 'digas'];
+
+      function next_server() {
+        document.getElementById(servers[s]).style.display = 'block';
+        s++;
+      }
+    ]]></script>
+  <defs
+     id="defs822">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker2248"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Sstart">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         style="fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:#ff6600;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2246"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1988"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1986"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:#ff6600;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1936"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Sstart"
+       inkscape:collect="always">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         style="fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:#ff6600;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1934"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1890"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path1888"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:#ff6600;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Sstart"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path1454"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:#ff6600;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1442"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.5215769"
+     inkscape:cx="192.66664"
+     inkscape:cy="160.62599"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="1006"
+     inkscape:window-x="1703"
+     inkscape:window-y="50"
+     inkscape:window-maximized="0"
+     fit-margin-top="20"
+     fit-margin-left="20"
+     fit-margin-right="20"
+     fit-margin-bottom="20"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="58.281662,33.813201"
+       orientation="0,1"
+       id="guide942"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata825">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-16.393486,-36.265327)">
+    <g
+       id="front-server" onclick="next_server()">
+      <circle
+         r="11.469764"
+         cy="86.351151"
+         cx="47.930984"
+         id="path1376"
+         style="fill:#55ddff;fill-opacity:1;stroke:#333333;stroke-width:0.13546966;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:2.51667714px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.06291693;"
+         x="38.785374"
+         y="100.46783"
+         id="text1390"><tspan
+           sodipodi:role="line"
+           id="tspan1388"
+           x="38.785374"
+           y="100.46783"
+           style="fill:#cccccc;stroke-width:0.06291693;">podcast.srib.no</tspan></text>
+      <text
+         id="text1394"
+         y="87.082657"
+         x="43.476265"
+         style="font-style:normal;font-weight:normal;font-size:2.86744094px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07168602"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.07168602"
+           y="87.082657"
+           x="43.476265"
+           id="tspan1392"
+           sodipodi:role="line">Varnish</tspan><tspan
+           id="tspan1840"
+           style="stroke-width:0.07168602"
+           y="90.666962"
+           x="43.476265"
+           sodipodi:role="line">(cache)</tspan></text>
+    </g>
+    <g
+       id="django-server" onclick="next_server()">
+      <g
+         id="egeg">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:2.52783394px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.06319585;"
+           x="67.63559"
+           y="100.64558"
+           id="text1380"><tspan
+             sodipodi:role="line"
+             id="tspan1378"
+             x="67.63559"
+             y="100.64558"
+             style="fill:#cccccc;stroke-width:0.06319585;">web-srib-podcast.fribyte.uib.no</tspan></text>
+        <circle
+           r="11.469764"
+           cy="85.713249"
+           cx="86.136894"
+           id="circle1386"
+           style="fill:#55ddff;fill-opacity:1;stroke:#333333;stroke-width:0.13546966;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
+        <text
+           id="text1398"
+           y="86.358047"
+           x="81.01474"
+           style="font-style:normal;font-weight:normal;font-size:2.86744094px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07168602"
+           xml:space="preserve"><tspan
+             style="stroke-width:0.07168602"
+             y="86.358047"
+             x="81.01474"
+             id="tspan1396"
+             sodipodi:role="line">Django</tspan></text>
+      </g>
+      <path
+         inkscape:connection-end="#circle1386"
+         inkscape:connection-start="#path1376"
+         inkscape:connector-curvature="0"
+         inkscape:connector-type="polyline"
+         id="path1400"
+         d="m 61.398658,85.898845 13.27027,0.0059"
+         style="fill:#ff6600;fill-rule:evenodd;stroke:#ff6600;stroke-width:1.20000005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Sstart);paint-order:markers fill stroke"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <g
+       id="database-server" onclick="next_server()">
+      <g
+         id="g2075">
+        <circle
+           style="fill:#c4c8b7;fill-opacity:1;stroke:#333333;stroke-width:0.13546966;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+           id="circle1402"
+           cx="119.17554"
+           cy="67.802826"
+           r="11.469764" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:2.86744094px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07168602"
+           x="116.48782"
+           y="68.795395"
+           id="text1410"><tspan
+             sodipodi:role="line"
+             id="tspan1408"
+             x="116.48782"
+             y="68.795395"
+             style="stroke-width:0.07168602">DB</tspan></text>
+      </g>
+      <path
+         inkscape:connection-end="#circle1402"
+         inkscape:connection-start="#circle1386"
+         inkscape:connector-curvature="0"
+         inkscape:connector-type="polyline"
+         id="path1428"
+         d="M 96.220123,80.247077 109.09231,73.268998"
+         style="fill:#ff6600;fill-rule:evenodd;stroke:#ff6600;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker1988)" />
+    </g>
+    <g
+       id="nas-server" onclick="next_server()">
+      <g
+         id="g2091">
+        <circle
+           r="11.469764"
+           cy="103.27589"
+           cx="121.60996"
+           id="circle1412"
+           style="fill:#c4c8b7;fill-opacity:1;stroke:#333333;stroke-width:0.13546966;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
+        <text
+           id="text1420"
+           y="104.26846"
+           x="118.40059"
+           style="font-style:normal;font-weight:normal;font-size:2.86744094px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07168602"
+           xml:space="preserve"><tspan
+             style="stroke-width:0.07168602"
+             y="104.26846"
+             x="118.40059"
+             id="tspan1418"
+             sodipodi:role="line">NAS</tspan></text>
+      </g>
+      <path
+         inkscape:connection-end="#circle1412"
+         inkscape:connection-start="#circle1386"
+         inkscape:connector-curvature="0"
+         inkscape:connector-type="polyline"
+         id="path1430"
+         d="m 96.415647,90.802237 14.915563,7.384662"
+         style="fill:#ff6600;fill-rule:evenodd;stroke:#ff6600;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker1936)" />
+    </g>
+    <g
+       id="digas">
+      <path
+         sodipodi:nodetypes="cc"
+         style="fill:#ff6600;fill-rule:evenodd;stroke:#ff6600;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker2248)"
+         d="m 130.83553,70.171088 17.36972,9.000582"
+         id="path2244"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0" />
+      <g
+         id="g2086">
+        <circle
+           style="fill:#c4c8b7;fill-opacity:1;stroke:#333333;stroke-width:0.13546966;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+           id="circle1422"
+           cx="156.56137"
+           cy="85.887131"
+           r="11.469764" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:2.86744094px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07168602"
+           x="153.35199"
+           y="86.879707"
+           id="text1426"><tspan
+             sodipodi:role="line"
+             id="tspan1424"
+             x="153.35199"
+             y="86.879707"
+             style="stroke-width:0.07168602">Digas</tspan></text>
+      </g>
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connection-end="#circle1422"
+         inkscape:connection-start="#circle1412"
+         inkscape:connector-curvature="0"
+         inkscape:connector-type="polyline"
+         id="path1440"
+         d="m 131.87885,98.16699 14.41364,-7.170963"
+         style="fill:#ff6600;fill-rule:evenodd;stroke:#ff6600;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker1890)" />
+    </g>
+  </g>
+</svg>
